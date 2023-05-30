@@ -1,4 +1,8 @@
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
+</div>
 ### Hi there 👋
+
 
 <!--
 **Douglch/Douglch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Douglch's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglch)](https://github.com/anuraghazra/github-readme-stats)
 -->
