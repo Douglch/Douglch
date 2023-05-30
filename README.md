@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="100"/>
     <div id="badges">
-      <a href="https://www.linkedin.com/in/douglas-chow-9b294b235 /">
+      <a href="https://www.linkedin.com/in/douglas-chow-9b294b235/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <!--       </a>
       <a href="your-youtube-URL">
