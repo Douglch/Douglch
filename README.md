@@ -55,9 +55,9 @@ I am currently a Computer Science student from Singapore! <img src="https://medi
 ---
     
 ### :fire: My Stats :
-![alt text](https://github-readme-stats.vercel.app/api?username=douglch&show_icons=true&theme=radical)
+![alt text](https://github-readme-stats-sigma-five.vercel.app/api?username=douglch&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=douglch&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglch&layout=compact&theme=vision-friendly-dark)](https://github.com/douglch/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=douglch&layout=compact&theme=vision-friendly-dark)](https://github.com/douglch/github-readme-stats)
 
 <!--
 **Douglch/Douglch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
