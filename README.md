@@ -29,7 +29,7 @@ I am currently a Computer Science student from Singapore! <img src="https://medi
 
 - 🙂 Feel free to view my projects [here](https://github.com/Douglch?tab=repositories)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-chow-9b294b235)
+- :mailbox:Let's Connect! [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-chow-9b294b235)
 
 ---
 
