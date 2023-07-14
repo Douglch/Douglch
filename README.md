@@ -21,9 +21,9 @@
   
     
 # About me:
-I am currently a Computer Science student from Singapore! <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="50">
+I am a penultimate year computer science student from Singapore! <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="50">
 
-- :seedling: Exploring machine learning content 
+- :seedling: Currently exploring deep learning, particularly stable diffusion.
 
 - 🙂 Feel free to view my projects [here](https://github.com/Douglch?tab=repositories)
 
