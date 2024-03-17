@@ -21,7 +21,7 @@
   
     
 # About me:
-I am a penultimate year computer science student from Singapore! <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="50">
+I am a penultimate year computer science student from Singapore.
 
 - 🙂 Feel free to view my projects [here](https://github.com/Douglch?tab=repositories)
 
